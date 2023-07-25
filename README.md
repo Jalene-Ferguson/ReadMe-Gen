@@ -7,10 +7,10 @@ This project is made to help users create a README using a terminal generator.
 N/A
 
 ## Useage
-https://jalene-ferguson.github.io/Pass-Gen/
+
 
 ## License
-N/A
+MIT
 
-## Screenshot
-![alt text](./assets/img/_Users_jalene._Documents_UCF_homework_Pass-Gen_Develop_index.html.png)
+## Video
+![alt text](./Develop/Untitled_%20Jul%2024%2C%202023%2011_06%20PM.webm)

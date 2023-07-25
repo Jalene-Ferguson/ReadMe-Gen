@@ -7,7 +7,7 @@ function renderLicenseBadge(license) {
   if (license === "APACHE2.0") {
     return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]";
   } else if (license === "MIT") { 
-    return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)";
+    return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]";
   } else if (license === "MPL2.0") {
     return "[![License](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)]";
   } else if (license === "Boost1.0") {
@@ -68,6 +68,6 @@ ${data.test}
 ${data.email}
 [GitHub](https://github.com/${data.github})
 `;
-}
+};
 
 module.exports = generateMarkdown;
